@@ -21,7 +21,8 @@
     "url": "https://github.com/AdeleD/react-paginate/issues"
   },
   "dependencies": {
-    "prop-types": "^15"
+    "prop-types": "^15",
+    "react-paginate": "^8.2.0"
   },
   "peerDependencies": {
     "react": "^16 || ^17 || ^18"
